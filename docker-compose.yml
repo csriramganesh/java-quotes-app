@@ -1,0 +1,7 @@
+services:
+  quotes-app:
+    image: java-quotes-app:multistage
+    container_name: quotes-app-compose
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
