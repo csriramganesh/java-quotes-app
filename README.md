@@ -162,7 +162,7 @@ The application was deployed using Docker Compose and container status was verif
 
 ### Screenshot
 
-![Docker Compose Running](screenshots/11_docker_compose_up_and_docker compose_ps.png)
+![Docker Compose Running](screenshots/11_docker_compose_up_and_docker_compose_ps.png)
 
 ---
 
